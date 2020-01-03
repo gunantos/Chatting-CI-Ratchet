@@ -8,12 +8,12 @@ Aplikasi chating dengan framework codeigniter dan Ratchet sebagai websocket
 *******************
 Cara instalation
 *******************
-- `Download/clone github file`_
-- `copy to Webroot directory!`_
-- `Buka consule/terminal:`_
-- `Masuk ke folder directory chat`_
-- `ketik "php composer.phar install"`_
-- `Jalankan server melalui console/terminal "php server-socket.php"`_
+- `Download/clone github file <https://github.com/andtho89/Chatting-CI-Socketio/archive/master.zip>`_
+- copy to Webroot directory!
+- Buka consule/terminal:
+- Masuk ke folder directory chat
+- ketik "php composer.phar install"
+- Jalankan server melalui console/terminal "php server-socket.php"
 
 
 *******************
