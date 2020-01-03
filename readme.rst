@@ -4,6 +4,7 @@ CHAT CI
 
 Aplikasi chating dengan framework codeigniter dan Ratchet sebagai websocket
 
+Support kirim file berupa gambar dan lainya!
 
 *******************
 Cara instalation
